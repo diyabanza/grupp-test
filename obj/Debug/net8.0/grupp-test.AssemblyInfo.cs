@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("grupp-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+495d0bb2092f3f03dc3d9bb1d3389b59707f461f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39ce4bac5fa7a688a7fca4701bc98e0b92089595")]
 [assembly: System.Reflection.AssemblyProductAttribute("grupp-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("grupp-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
